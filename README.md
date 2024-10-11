@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Pavlo Honcharenko from Ukraine! 👋
 
-<!--
-**PashaSysGears/PashaSysGears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Full Stack JavaScript & TypeScript Developer!
 
-Here are some ideas to get you started:
+Technologies and Languages:
+- JavaScript/TypeScript, HTML/CSS/SCSS, SQL
+- React, Next.js, React Native, Expo, Redux, Apollo GraphQL
+- Express, NestJS, GraphQL/Rest, MongoDB, PostgreSQL, MySQL, Vector, TypeORM, Redis, Jest
+- Git, GitHub Actions, Docker
+- Chat GPT, OpenAI API, Google APIs, Azure API
+- AWS (Elastic Beanstalk, ECR, RDS, Lambda, LB, Cognito, S3, Code Build, Code
+Pipeline, EC2, IAM, Cloud Watch), Azure (App Service, Container Registry, Application
+Insights), Digital Ocean
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
