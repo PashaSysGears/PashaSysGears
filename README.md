@@ -43,8 +43,7 @@ I have extensive experience in developing scalable web and mobile applications, 
 | **Languages**           | JavaScript/TypeScript, SQL        |  
 | **Frontend**            | React, Next.js, React Native, Expo, Redux, Apollo GraphQL, RTK, tRPC             |  
 | **Backend**             | Express, NestJS, GraphQL/Rest                               |  
-| **Services**        | AWS (Elastic Beanstalk, ECR, RDS, Lambda, LB, Cognito, S3, Code Build, Code
-Pipeline, EC2, IAM, Cloud Watch), Azure (App Service, Container Registry, Application Insights), Digital Ocean                   | 
+| **Services**        | AWS (Elastic Beanstalk, ECR, RDS, Lambda, LB, Cognito, S3, Code Build, Code Pipeline, EC2, IAM, Cloud Watch), Azure (App Service, Container Registry, Application Insights), Digital Ocean                   | 
 | **Databases**           | MongoDB, PostgreSQL, MySQL, Vector, TypeORM, Redis                             |  
 | **Testing Libraries**   | Jest, Cypress                   |  
 | **User Interface**      | HTML, CSS, SASS/SCSS, Ant Design, Material UI   |  
